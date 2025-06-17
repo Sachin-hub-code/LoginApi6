@@ -1,0 +1,6 @@
+@LoginApi6_HostAddress = http://localhost:5212
+
+GET {{LoginApi6_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
